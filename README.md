@@ -4,7 +4,7 @@
 
 <h3 align="center">Spoken languages</h3>
   
-<h4 align="center">Spanish (NATIVE) 
+<h4 align="center">Spanish
   </br> English (Still in learning)</h4>
   
 <hr></hr>

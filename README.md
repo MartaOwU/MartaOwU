@@ -4,9 +4,11 @@
 
 <h3 align="center">Spoken languages</h3>
   
-<h3 align="center">Spanish (NATIVE) 
-  </br> English (Still in learning)</h3>
+<h4 align="center">Spanish (NATIVE) 
+  </br> English (Still in learning)</h4>
   
 <hr></hr>
 
-<h3></h3>
+<h4 align="center">Learning Java, JavaScript, nodejs</h4>
+
+<hr></hr>
